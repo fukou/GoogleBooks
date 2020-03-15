@@ -1,9 +1,17 @@
-# librarybooks
+# Google Books API (Library Books)
+
+## Requirements
+* Node.js
+* Vue CLI
+
+Please install the dependencies before running the project by using this command.
 
 ## Project setup
 ```
 npm install
 ```
+
+You can now able to run the project by using this command.
 
 ### Compiles and hot-reloads for development
 ```
